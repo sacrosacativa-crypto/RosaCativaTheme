@@ -164,7 +164,7 @@
     "header_background": "#ffffff",
     "header_text_color": "#000000",
     "footer_background": "#FDA464",
-    "footer_text_color": "#6B7048",
+    "footer_text_color": "#FFFFFF",
     "primary_button_background": "#FDA464",
     "secondary_button_background": "#FDA464",
     "secondary_button_text_color": "#ffffff",
@@ -173,7 +173,7 @@
     "product_custom_label_2_background": "#f3ff34",
     "product_in_stock_text_color": "#2e9e7b",
     "product_low_stock_text_color": "#de2a2a",
-    "heading_font": "archivo_n6",
+    "heading_font": "domine_n4",
     "heading_font_size": "large",
     "heading_text_transform": "normal",
     "text_font": "besley_n4",
@@ -267,7 +267,7 @@
           "autoplay": true,
           "cycle_speed": 5,
           "background": "#FDA464",
-          "text_color": "#6B7048",
+          "text_color": "#FFFFFF",
           "button_background": "#000000",
           "button_text_color": "#010101"
         }
