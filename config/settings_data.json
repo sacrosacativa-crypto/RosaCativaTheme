@@ -266,8 +266,8 @@
           "announcement_text_size": "normal",
           "autoplay": true,
           "cycle_speed": 5,
-          "background": "#FDA464",
-          "text_color": "#FFFFFF",
+          "background": "#fda464",
+          "text_color": "#ffffff",
           "button_background": "#000000",
           "button_text_color": "#010101"
         }
@@ -401,7 +401,7 @@
           "qualidesegur": "Qualidade e Segurança",
           "forma_envio": true,
           "seg_qua": true,
-          "Nome_loja": "2017 - 2026 Use Vellen",
+          "Nome_loja": "2017 - 2026 Rosa Cativa",
           "CNPJ_loja": "",
           "endereco_loja": "Avenida Paulista, 1036, Bela Vista - São Paulo - SP | 01310-200",
           "quebra_CNPJ": false,
