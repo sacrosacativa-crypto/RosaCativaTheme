@@ -11,8 +11,8 @@
   "current": {
     "vavegamaiusculo": true,
     "fontenavegacaom": 16,
-    "setaslidefundo": "#000",
-    "setaslideborda": "#000",
+    "setaslidefundo": "#6B7048",
+    "setaslideborda": "#6B7048",
     "setaslidebordas": 100,
     "anuncio_fontem": 14,
     "anuncio_alturam": 38,
@@ -155,8 +155,8 @@
     "block_border_radius": "large",
     "bolinha_sacola": "#FDA464",
     "bolinha_sacola_fonte": "#ffffff",
-    "heading_color": "#282828",
-    "text_color": "#282828",
+    "heading_color": "#6B7048",
+    "text_color": "#6B7048",
     "background": "#ffffff",
     "secondary_background": "#f5f5f5",
     "success_color": "#2e9e7b",
@@ -199,6 +199,7 @@
     "product_color_display": "swatch",
     "product_image_size": "square",
     "cart_type": "drawer",
+    "continuar-compra-texto": "#000000",
     "bandeiras_w_mobilec": 14,
     "bandeiras_w_desktopc": 14,
     "cart_icon": "shopping_bag",
@@ -345,7 +346,7 @@
           "show_locale_selector": false,
           "show_country_selector": false,
           "enable_transparent_header": false,
-          "transparent_header_text_color": "#000000",
+          "transparent_header_text_color": "#6B7048",
           "search_menu": ""
         }
       },
