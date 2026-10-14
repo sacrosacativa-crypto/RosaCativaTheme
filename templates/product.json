@@ -174,7 +174,7 @@
           "type": "question",
           "settings": {
             "title": "Tem garantia?",
-            "answer": "<p>1. A Vellen oferece garantia de <strong>12 meses </strong>após a data do recebimento, para todas as peças compradas em nosso site, de acordo com as regras. Leia mais em Garantia</p><p>2. Nós da Vellen prezamos pela qualidade e excelência do seu produto por isso pedimos para que todo defeito seja notificado através do nosso WhatsApp ou e-mail (dentro da garantia) para que façamos a troca ou reparo do seu produto.</p><p>3. Todo o reembolso possui a confirmação do Mercado Pago onde o cliente recebe sua via. Quando a compra for feita pelo cartão: o reembolso é feito pelo próprio cartão. Se a compra for feita por pix, entre em contato no Whatsapp ou email.</p>"
+            "answer": "<p>1. A&nbsp;Rosa Cativa oferece&nbsp;garantia de&nbsp;<strong>12 meses&nbsp;</strong>após a data do recebimento, para todas as peças compradas em nosso site, de acordo com as regras. Leia mais em Garantia</p><p>2. Nós da Rosa Cativa prezamos pela qualidade e excelência do seu produto por isso pedimos para que todo defeito seja notificado através do nosso WhatsApp ou e-mail (dentro da garantia) para que façamos a troca ou reparo do seu produto.</p><p>3. Todo o reembolso possui a confirmação do Mercado Pago onde o cliente recebe sua via. Quando a compra for feita pelo&nbsp;cartão:&nbsp;o reembolso é feito pelo próprio cartão. Se a compra for feita por&nbsp;pix, entre em contato no Whatsapp ou email.</p>"
           }
         },
         "template--17030236995879__0156e20f-57ea-4f6a-99a4-6f9d637da63a-1671630868244ee449-4": {
@@ -236,21 +236,10 @@
     },
     "areviews_1771856220_f7ad1a": {
       "type": "apps",
-      "blocks": {
-        "areviews_reviews_importer_areviews_display_reviews_A66C68": {
-          "type": "shopify://apps/areviews-reviews-importer/blocks/AreviewsDisplayReviews/ab0ec5fe-c95b-4fd6-bfb8-db2a30d0756f",
-          "settings": {
-            "hide_areviews_title_rating": false,
-            "areviews_theme_font": "inherit",
-            "areviews_stars_colors": "#f3c621",
-            "areviews_write_reviews_botton_color": "#373737"
-          }
-        }
-      },
-      "block_order": [
-        "areviews_reviews_importer_areviews_display_reviews_A66C68"
-      ],
-      "settings": {}
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
     }
   },
   "order": [
