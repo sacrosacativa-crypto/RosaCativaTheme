@@ -338,7 +338,7 @@
         "settings": {
           "enable_sticky_header": false,
           "logo": "shopify://shop_images/Rosa_Cativa_Logo_a2589a83-364a-4510-be32-32d082d96930.png",
-          "logo_max_width": 220,
+          "logo_max_width": 240,
           "mobile_logo_max_width": 140,
           "navigation_menu": "",
           "sidebar_navigation_menu": "",
