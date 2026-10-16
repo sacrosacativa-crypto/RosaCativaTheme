@@ -289,7 +289,7 @@
         "6be19115-feeb-43db-a349-3e41d31b786e": {
           "type": "collection",
           "settings": {
-            "collection": "oculos",
+            "collection": "sandalias",
             "label": "",
             "button_text": "Ver todas",
             "button_url": ""
@@ -310,7 +310,7 @@
         "a8be19cf-9134-40bb-bcc7-5767bd63d585"
       ],
       "settings": {
-        "title": "Complete seu Visual",
+        "title": "Calçados",
         "content": "",
         "products_count": 5,
         "products_per_row": 5,
