@@ -303,11 +303,21 @@
             "button_text": "Ver todas",
             "button_url": ""
           }
+        },
+        "collection_XpGTez": {
+          "type": "collection",
+          "settings": {
+            "collection": "tamancos",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
         }
       },
       "block_order": [
         "6be19115-feeb-43db-a349-3e41d31b786e",
-        "a8be19cf-9134-40bb-bcc7-5767bd63d585"
+        "a8be19cf-9134-40bb-bcc7-5767bd63d585",
+        "collection_XpGTez"
       ],
       "settings": {
         "title": "Calçados",
