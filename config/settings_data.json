@@ -343,7 +343,7 @@
           "logo": "shopify://shop_images/Rosa_Cativa_Logo_a2589a83-364a-4510-be32-32d082d96930.png",
           "logo_max_width": 255,
           "mobile_logo_max_width": 150,
-          "navigation_menu": "",
+          "navigation_menu": "main-menu",
           "sidebar_navigation_menu": "",
           "header_layout": "logo_center_search_open",
           "show_icons": true,
