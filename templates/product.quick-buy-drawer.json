@@ -38,19 +38,20 @@
     },
     "areviews_1771856238_f7ad1a": {
       "type": "apps",
+      "settings": {}
+    },
+    "areviews_1792432586_5039a6": {
+      "type": "apps",
       "blocks": {
-        "areviews_reviews_importer_areviews_display_reviews_1A67A6": {
+        "areviews_reviews_importer_areviews_display_reviews_C6730D": {
           "type": "shopify://apps/areviews-reviews-importer/blocks/AreviewsDisplayReviews/ab0ec5fe-c95b-4fd6-bfb8-db2a30d0756f",
           "settings": {
-            "hide_areviews_title_rating": false,
-            "areviews_theme_font": "inherit",
-            "areviews_stars_colors": "#f3c621",
-            "areviews_write_reviews_botton_color": "#373737"
+            "hide_areviews_title_rating": false
           }
         }
       },
       "block_order": [
-        "areviews_reviews_importer_areviews_display_reviews_1A67A6"
+        "areviews_reviews_importer_areviews_display_reviews_C6730D"
       ],
       "settings": {}
     }
@@ -58,6 +59,7 @@
   "order": [
     "main",
     "1629746450643786911",
-    "areviews_1771856238_f7ad1a"
+    "areviews_1771856238_f7ad1a",
+    "areviews_1792432586_5039a6"
   ]
 }
