@@ -16,6 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Desktop_01_dffc7733-6d6d-4958-b4eb-9e06834ce69c.png",
+            "mobile_image": "shopify://shop_images/Desktop_01_dffc7733-6d6d-4958-b4eb-9e06834ce69c.png",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
