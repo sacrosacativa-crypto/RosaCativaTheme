@@ -680,7 +680,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sem_titulo-1_eebacd16-b3af-4b25-96b2-7556c1b52c86.png",
-            "caption": "<p>🤎 Autenticidade que se revela em cada detalhe.</p><p>Com franjas marcantes, tons terrosos e um toque boho irresistível, essa bolsa é perfeita para quem ama expressar sua personalidade através do estilo. Um acessório cheio de charme para transformar qualquer look e acompanhar você em todos os momentos. ✨</p>",
+            "caption": "<p>🤎 Autenticidade e charme em cada detalhe! Com franjas marcantes e tons terrosos, essa bolsa traz um toque boho irresistível para transformar qualquer look. ✨</p>",
             "captionhashtag": ""
           }
         },
@@ -688,14 +688,15 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sem_titulo-1_2745a5ad-b8a6-4aaf-b0a8-f89b8f8819d4.png",
-            "caption": "<p>💙 Leveza, praticidade e charme para acompanhar a sua rotina!</p><p>A combinação perfeita entre o azul delicado e a estampa xadrez traz um toque descontraído e cheio de personalidade para qualquer look. Ideal para passeios, cafés e momentos especiais, essa bolsa é a escolha certa para quem ama unir estilo e funcionalidade em cada detalhe. ✨</p>",
+            "caption": "<p>💙 Leveza, praticidade e charme para a sua rotina! A combinação do azul delicado com a estampa xadrez traz personalidade e versatilidade para qualquer look. ✨<br/><br/></p>",
             "captionhashtag": ""
           }
         },
         "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-2": {
           "type": "image",
           "settings": {
-            "caption": "<p>“O tempo é um luxo para quem sabe aproveitá-lo. ⏳✨<br/><br/>Dois ícones da relojoaria que combinam tradição, precisão e estilo atemporal. Qual combina mais com você?</p>",
+            "image": "shopify://shop_images/Imagem_do_ChatGPT_20_de_out._de_2026_20_44_48.png",
+            "caption": "<p>🤎🌿 Livre, leve e cheia de personalidade!</p><p>O estilo boho é sobre expressar sua essência nos pequenos detalhes, misturando estampas marcantes, acessórios e a beleza da liberdade. ✨</p><p></p>",
             "captionhashtag": ""
           }
         },
