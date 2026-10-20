@@ -676,19 +676,19 @@
     "8cb7aa4e-4ff2-44f5-81a8-15785bb845cc": {
       "type": "Instafeed",
       "blocks": {
+        "cd6ec7c0-a75f-4ef0-a547-40bcf78bf4dc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Retrato_Boho_ao_Por_do_Sol.png",
+            "caption": "<p>🍂✨ Liberdade para vestir quem você é!</p><p>Com estampas marcantes, tons terrosos e a leveza do estilo boho, cada detalhe transforma o look em uma expressão de autenticidade. 🤎🌿</p><p></p>",
+            "captionhashtag": ""
+          }
+        },
         "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-0": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sem_titulo-1_eebacd16-b3af-4b25-96b2-7556c1b52c86.png",
             "caption": "<p>🤎 Autenticidade e charme em cada detalhe! Com franjas marcantes e tons terrosos, essa bolsa traz um toque boho irresistível para transformar qualquer look. ✨</p>",
-            "captionhashtag": ""
-          }
-        },
-        "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sem_titulo-1_2745a5ad-b8a6-4aaf-b0a8-f89b8f8819d4.png",
-            "caption": "<p>💙 Leveza, praticidade e charme para a sua rotina! A combinação do azul delicado com a estampa xadrez traz personalidade e versatilidade para qualquer look. ✨<br/><br/></p>",
             "captionhashtag": ""
           }
         },
@@ -700,19 +700,19 @@
             "captionhashtag": ""
           }
         },
+        "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sem_titulo-1_2745a5ad-b8a6-4aaf-b0a8-f89b8f8819d4.png",
+            "caption": "<p>💙 Leveza, praticidade e charme para a sua rotina! A combinação do azul delicado com a estampa xadrez traz personalidade e versatilidade para qualquer look. ✨<br/><br/></p>",
+            "captionhashtag": ""
+          }
+        },
         "ccbfc1d7-c63e-43f9-9db4-2f06b657d2c8": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Sem_titulo-1_150503b0-220f-4202-aeb9-1b5a4045cca9.png",
             "caption": "<p>🤎 Estilo marcante em cada detalhe! Com pedrarias coloridas, fivelas douradas e plataforma robusta, essa sandália é perfeita para elevar seus looks com personalidade e charme. ✨<br/><br/></p>",
-            "captionhashtag": ""
-          }
-        },
-        "cd6ec7c0-a75f-4ef0-a547-40bcf78bf4dc": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Retrato_Boho_ao_Por_do_Sol.png",
-            "caption": "<p>🍂✨ Liberdade para vestir quem você é!</p><p>Com estampas marcantes, tons terrosos e a leveza do estilo boho, cada detalhe transforma o look em uma expressão de autenticidade. 🤎🌿</p><p></p>",
             "captionhashtag": ""
           }
         },
@@ -750,11 +750,11 @@
         }
       },
       "block_order": [
-        "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-0",
-        "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-1",
-        "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-2",
-        "ccbfc1d7-c63e-43f9-9db4-2f06b657d2c8",
         "cd6ec7c0-a75f-4ef0-a547-40bcf78bf4dc",
+        "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-0",
+        "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-2",
+        "template--19753647243582__8cb7aa4e-4ff2-44f5-81a8-15785bb845cc-1688865804c509b02d-1",
+        "ccbfc1d7-c63e-43f9-9db4-2f06b657d2c8",
         "5e5404eb-8b77-46ca-ad48-ad75555190dc",
         "9a7b762e-74e7-4a0d-acec-3f44ddd3109b",
         "14379bc8-7b0b-4024-9a54-427c5612dbc8",
