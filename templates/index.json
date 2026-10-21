@@ -212,7 +212,7 @@
         "template--14518027550833__f03689a1-a342-4154-a5fc-376e90c0838c-1666202443f5a6bbde-0": {
           "type": "collection",
           "settings": {
-            "collection": "bolsas",
+            "collection": "mais-vendidos",
             "label": "",
             "button_text": "Ver todos",
             "button_url": ""
@@ -223,7 +223,7 @@
         "template--14518027550833__f03689a1-a342-4154-a5fc-376e90c0838c-1666202443f5a6bbde-0"
       ],
       "settings": {
-        "title": "Mais Vendidas",
+        "title": "Mais Vendidos",
         "content": "",
         "products_count": 10,
         "products_per_row": 4,
